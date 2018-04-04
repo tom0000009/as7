@@ -8,29 +8,29 @@ Time spent: **X** hours spent in total
 
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+    - Vulnerability types:xss
+    - Tested in version:4.2.19
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+  - [ ] GIF Walkthrough: see link
+  - [ ] Steps to recreate: paste <IMG SRC="#" ONERROR="alert('XSS')"/> into a comment and get it approved to appear on the page
   - [ ] Affected source code:
     - [Link 1](https://github.com/tom0000009/as7/blob/master/xss.gif)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+    - Tested in version:xss
+    - Fixed in version: 4.2.19
+  - [ ] GIF Walkthrough: see link
+  - [ ] Steps to recreate: paste <IMG SRC="#" ONERROR="alert('XSS')"/> into a comment and get it approved to appear on the page
   - [ ] Affected source code:
     - [Link 1](https://github.com/tom0000009/as7/blob/master/xssonmouseover.gif)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+    - Vulnerability types:xss
+    - Tested in version:4.2.19
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+  - [ ] GIF Walkthrough: see link
+  - [ ] Steps to recreate: paste <IMG SRC="#" ONERROR="alert('XSS')"/> into a comment and get it approved to appear on the page
   - [ ] Affected source code:
     - [Link 1](https://github.com/tom0000009/as7/blob/master/xssiframe.gif)
 1. (Optional) Vulnerability Name or ID
